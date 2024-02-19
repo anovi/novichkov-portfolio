@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "9a09d9467462904b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd073bfb4ca5969c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ac11df80bc7a6d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16a08f3868c6c9dc",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "media/2024/02/optima-typography-tool.mp4"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b7690877cabca98",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ace47935b03c400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d8e4d02b2587b13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f4b5de35ef2677b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90267249ae804cd7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23c4f86d9741fc25",
+    "type": "split",
+    "children": [
+      {
+        "id": "930ab2b8c9984fab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6397a864faea3b6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "039d86735741209e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e6c064f795f891d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6115c728cae662ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8ac11df80bc7a6d4",
+  "lastOpenFiles": [
+    "Optima.md",
+    "media/2024/02/optima-typography-tool.mp4",
+    "index.md",
+    "media/2024/02/optima-typography-tool_thumb.jpg",
+    "images/size/w960/format/webp/2024/02/zettaplan-promo2.png",
+    "images/size/w960/format/webp/2024/02/zettaplan-logo.svg",
+    "images/size/w960/format/webp/2024/02/zettaplan-1.png",
+    "images/size/w960/format/webp/2024/02/setka.svg",
+    "images/size/w960/format/webp/2024/02/optima.svg",
+    "images/size/w960/format/webp/2024/02/megaplan-mobile-cover.png",
+    "images/size/w960/format/webp/2024/02/finolog.jpg",
+    "images/size/w960/format/webp/2024/02/finolog-visuals.png",
+    "images/size/w600/format/webp/2024/02/zettaplan-promo2.png",
+    "images/size/w960/format/webp/2024/02",
+    "images/size/w600/format/webp/2024/02",
+    "images/size/w320/format/webp/2024/02",
+    "images/size/w2000/format/webp/2024/02",
+    "images/size/w960/format/webp/2024",
+    "images/size/w600/format/webp/2024",
+    "images/size/w320/format/webp/2024",
+    "images/size/w2000/format/webp/2024",
+    "images/size/w960/format/webp"
+  ]
+}

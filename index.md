@@ -15,7 +15,7 @@ Read more [about me](bio.md).
 
 ## Personal projects
 
-* [optima](optima.md)
+* [optima](optima)
 * [setka](setka.md)
 
 ## Commercial work

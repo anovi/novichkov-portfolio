@@ -15,9 +15,7 @@ Read more [about me](bio.md).
 
 ## Personal projects
 
-* [optima](./optima)
+* [optima](optima.md)
 * [setka](setka.md)
-* [🔆~Супер говно](🔆~Супер%20говно.md)
-* [🔆~Супер говно](🔆~Супер говно.md)
 
 ## Commercial work
